@@ -1,0 +1,38 @@
+Subject_id,Subject_name,Faculty_id,Faculty_name,Subject_credit
+101,Database Management System,1001,qwer,4
+102,Operating System,1002,wert,4
+103,RF Engineering,1003,erty,4
+104,Software Engineering,1004,rtyu,3
+105,Artificial Intelligence,1005,tyui,4
+106,Digital Signal Processing,1006,yuio,4
+107,DataWarehouse and data mining,1007,uiop,3
+108,Embedded system,1008,iopa,4
+109,Wireless Communication and Coding,1009,opas,4
+110,Wireless Sensor Networks,1010,pasd,3
+111,Computer Organisation and design,1011,asdf,4
+112,Communication system,1012,sdfg,4
+113,Computer networks,1013,dfgh,4
+114,Design and Analysis of Algorithm,1014,fghj,4
+115,Object Oriented concepts and Programming,1015,ghjk,3
+116,Basic Electronics,1016,hjkl,3
+117,Communication skills,1017,jklz,2
+118,Numerical and Statistical Methods,1018,klzx,4
+119,Theory of Computation,1019,lzxc,4
+120,Web Technology,1020,zxcv,3
+121,Information Security,1021,xcvb,3
+122,Principles of Economics,1022,cvbn,3
+123,Distributed System,1023,vbnm,3
+124,System software and compiler design,1024,opqr,4
+125,Wireless technology and mobile computing,1025,pqrs,4
+126,Optimization Techniques,1026,qrst,3
+127,Machine Learning,1027,rstu,4
+128,Signals and systems,1028,stuv,4
+129,Analog and Digital Electronics,1029,tuvw,4
+130,Data and file structures,1030,uvwx,4
+131,Discrete Mathematics,1031,vwxy,4
+132,Maths I,1032,wxyz,4
+133,Maths II,1033,wxyz,4
+134,Maths III,1034,wxyz,4
+135,Digital Logic Design,1035,xyzw,4
+,,,,
+,,,,

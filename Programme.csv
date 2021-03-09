@@ -1,0 +1,47 @@
+Program_id,Program_name,HOD,Desig
+BCE,Civil Engineering,abc,B.Tech
+BME,Mechanical Engineering,bcd,B.Tech
+BEE,Electrical Engineering,cde,B.Tech
+BCHE,Chemical Engineering,def,B.Tech
+BCS,Computer Engineering,efg,B.Tech
+BICT,Information & Communication Technology,fgh,B.Tech
+MME1,Thermal,ghi,M.Tech
+MME2,Design,hij,M.Tech
+MME3,Manufacturing,ijk,M.Tech
+MCV1,Infrastructure Engineering and Management,jkl,M.Tech
+MCV2,Transportation Engineering,klm,M.Tech
+MCV3,Environmental Engineering,lmn,M.Tech
+MCS1,Data Science,mno,M.Tech
+MCS2,Cyber Security,nop,M.Tech
+MCHE1,Chemical Engineering,opq,M.Tech
+MCHE2,Energy & Environmental Management,pqr,M.Tech
+MEE1,Power System,qrs,M.Tech
+MSE1,Energy System (Focused on Solar Energy),rst,M.Tech
+MS1,Material Science and Engineering,stu,M.Tech
+MN1,Nuclear Science and Technology,tuv,M.Tech
+BPE,Petroleum Engineering,uvw,B.Tech
+MPE1,Petroleum Engineering,vwx,M.Tech
+MPE2,Petroleum Technology,wxy,M.Tech
+PM1,Energy and Infrastructure,xyz,MBA
+PM2,General Management,qwe,MBA
+LS1,English,wer,B.A.
+LS2,Mass Communication,ert,B.A
+LS3,Governance & Public Administration ,rty,B.A.
+LS4,International Relations  Psychology,tyu,B.A.
+LS5,Economics,yui,B.A.
+LS6,Indic Studies,uio,B.A.
+LS7,Digital Humanities,iop,B.A.
+LS8,Marketing,opa,B.B.A.
+LS9,HR,pas,B.B.A.
+LS10,Finance,asd,B.B.A.
+LS11,Finance & Accounts,sdf,B.Com.
+LS12,Banking & Insurance,dfg,B.Com.
+LS13,Marketing & Management,fgh,B.Com.
+LS14,Entrepreneurship & International Trade,ghj,B.Com.
+MLS1,English,hjk,M.A
+MLS2,Public Administration  ,jkl,M.A
+MLS3,Political Science & International Relations,klz,M.A
+MLS4,Psychology,lzx,M.A
+MLS5,Economics,zxc,M.A
+MLS6,Mass Communications,xcv,M.A
+MLS7,Finance,cvb,M.Sc
